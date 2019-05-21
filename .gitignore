@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/GraphQl.Api/bin
+/src/GraphQl.Api/obj
+/src/RealEstateManager.DataAccess/bin
+/src/RealEstateManager.DataAccess/obj
+/src/RealEstateManager.Database/bin
+/src/RealEstateManager.Database/obj
+/src/RealEstateManager.Types/bin
+/src/RealEstateManager.Types/obj
+/src/RealEstateManager.Utilities/bin
+/src/RealEstateManager.Utilities/obj
